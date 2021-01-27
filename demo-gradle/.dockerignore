@@ -1,0 +1,6 @@
+build/
+.git/
+.gitignore
+Dockerfile
+dockeer.compose.yml
+.dockerignore
